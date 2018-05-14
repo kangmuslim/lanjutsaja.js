@@ -1,0 +1,2 @@
+# lanjutsaja.js
+lanjutsaja
